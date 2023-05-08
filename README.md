@@ -1,5 +1,5 @@
 
-##QFramework架构分层及其规则
+## QFramework架构分层及其规则
 
 **表现层：ViewController 层 —— IController 接口**，负责接收输入和状态变化时的表现。MonoBehaviour通常为表现层
 - 可以获取System
